@@ -1,0 +1,6 @@
+IRIS DATA PREDICTION
+The IRIS flower data set contains the the physical parameters of three species of flower
+— Versicolor, Setosa and Virginica.
+The numeric parameters which the dataset contains are Sepal width, Sepal length, Petal width and Petal length. 
+In this data we will be predicting the species of the flowers based on these parameters.
+Building a machine learning project to determine the species of the flower.
